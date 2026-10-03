@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+# generated / large / licensed data stays local
+pipeline/concepts/
+pipeline/models/
+pipeline/build/
+pipeline/refs/
+pipeline/chk*/
+*.ckpt
+*.pth
+*.pt
+*.npz
+*.npy
+*.glb
+*.fbx
+*.blend
+*.blend1
+*.mp4
